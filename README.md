@@ -1,5 +1,4 @@
 # Chocolate-Sales-Dashboard
-# Chocolate Sales Dashboard | Power BI
 
 An interactive Power BI dashboard created to analyze chocolate sales performance, profit, shipments, products, countries, and salesperson performance.
 
