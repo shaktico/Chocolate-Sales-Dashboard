@@ -215,7 +215,7 @@ Below is a preview of the Chocolate Sales Dashboard created in Power BI.
 [Chocolate Sales Dashboard](Chocolate-Sales-Dashboard.png)
 
 The Power BI template file for this project is available here:
-
+https://github.com/shaktico/Chocolate-Sales-Dashboard/blob/main/Chocolate-Sales-Dashboard.png.jpeg
 
 ---
 
